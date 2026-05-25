@@ -1,0 +1,38 @@
+Dựa trên các tài liệu được cung cấp, GHG Protocol, GRI 305, và TCVN ISO 14064-1:2011 là ba bộ tiêu chuẩn quan trọng nhất trên toàn cầu và tại Việt Nam trong việc kế toán, đo lường và báo cáo phát thải Khí nhà kính (KNK). Mặc dù có mối liên hệ mật thiết và thường bổ trợ cho nhau, mỗi tiêu chuẩn lại có phạm vi, đối tượng và mục đích sử dụng đặc thù.
+Dưới đây là chi tiết về từng tiêu chuẩn:
+1. Tiêu chuẩn Kế toán và Báo cáo Doanh nghiệp của GHG Protocol (GHG Protocol Corporate Standard)
+Đây là bộ tiêu chuẩn nền tảng, được coi là "sách giáo khoa" cho việc tính toán và hạch toán KNK trên toàn cầu, được phát triển bởi Viện Tài nguyên Thế giới (WRI) và Hội đồng Doanh nghiệp Thế giới về Phát triển Bền vững (WBCSD):
+    - Mục đích cốt lõi: Cung cấp hướng dẫn từng bước để các công ty chuẩn bị một bản kiểm kê KNK trung thực và công bằng, giúp đơn giản hóa chi phí, xây dựng chiến lược giảm phát thải và tham gia vào các chương trình KNK tự nguyện hoặc bắt buộc.
+    - Các loại khí bao trùm: Kế toán 6 loại khí nhà kính theo Nghị định thư Kyoto bao gồm: CO2, CH4, N2O, HFCs, PFCs, và SF6.
+    - 5 Nguyên tắc kế toán: Thích hợp (Relevance), Toàn diện (Completeness), Nhất quán (Consistency), Minh bạch (Transparency), và Chính xác (Accuracy).
+    - Thiết lập Ranh giới Tổ chức: Cho phép doanh nghiệp hợp nhất dữ liệu KNK theo một trong hai phương pháp: Tỷ lệ vốn chủ sở hữu (Equity share) hoặc Quyền kiểm soát (Tài chính hoặc Hoạt động).
+    - Phân loại Phạm vi (Scopes): GHG Protocol là tiêu chuẩn đi đầu trong việc phân loại phát thải thành 3 Phạm vi:
+        + Scope 1 (Trực tiếp): Phát thải từ các nguồn do công ty sở hữu hoặc kiểm soát (ví dụ: đốt nhiên liệu tại chỗ, quá trình hóa lý, phương tiện nội bộ)
+        + Scope 2 (Gián tiếp từ năng lượng): Phát thải từ việc tạo ra điện, nhiệt, hoặc hơi nước mà công ty mua để tiêu thụ
+        + Scope 3 (Gián tiếp khác): Phát thải từ chuỗi giá trị thượng nguồn và hạ nguồn (ví dụ: đi lại của nhân viên, vận chuyển thuê ngoài, xử lý rác thải)
+    - Công cụ hỗ trợ: Cung cấp sẵn các công cụ tính toán chi tiết cho từng ngành chéo (đốt cháy cố định, di động) hoặc ngành đặc thù (nhôm, xi măng, dầu khí)
+
+2. Tiêu chuẩn GRI 305: Khí thải 2016 (GRI 305: Emissions 2016)
+Được ban hành bởi Ủy ban Tiêu chuẩn Bền vững Toàn cầu (GSSB), đây là một tiêu chuẩn theo chủ đề (Topic Standard) thuộc hệ thống Báo cáo Phát triển Bền vững GRI.
+    - Mục đích cốt lõi: Hướng dẫn các tổ chức cách công bố thông tin (báo cáo) về tác động của họ đối với khí thải ra công chúng và các bên liên quan một cách chuẩn hóa. GRI 305 được xây dựng dựa trên chính các phương pháp luận của GHG Protocol.
+    - Phạm vi bao trùm rộng hơn: Không chỉ báo cáo KNK, GRI 305 yêu cầu báo cáo toàn diện các chất phát thải vào không khí, bao gồm: KNK, các chất làm suy giảm tầng ozone (ODS), Oxit nitơ (NOx), Oxit lưu huỳnh (SOx) và các loại khí thải ô nhiễm khác.
+    - Cấu trúc 7 Chỉ số Báo cáo (Disclosures):
+        + 305-1, 305-2, 305-3: Tương ứng với việc báo cáo trực tiếp Scope 1, Scope 2 và Scope 3.
+        + 305-4 (Cường độ phát thải KNK): Yêu cầu báo cáo tỷ lệ phát thải trên một đơn vị cụ thể của tổ chức (như doanh thu, số nhân viên, sản lượng)
+        + 305-5 (Giảm phát thải KNK): Yêu cầu tách bạch rõ lượng giảm phát thải từ các sáng kiến thực tế so với việc sử dụng tín chỉ bù trừ (offsets), đồng thời loại trừ lượng giảm do thu hẹp sản xuất
+        + 305-6 và 305-7: Báo cáo ODS (quy đổi ra CFC-11 tương đương) và NOx, SOx cùng các khí độc hại khác
+
+3. Tiêu chuẩn TCVN ISO 14064-1:2011 (tương đương ISO 14064-1:2006)
+Đây là tiêu chuẩn Quốc gia của Việt Nam, được hoàn toàn tương đương với chuẩn ISO 14064-1 của Tổ chức Tiêu chuẩn hóa Quốc tế.
+    - Mục đích cốt lõi: Cung cấp các quy định kỹ thuật và hướng dẫn ở "cấp độ tổ chức" để định lượng và báo cáo phát thải/loại bỏ KNK. Tiêu chuẩn này mang tính khuôn mẫu, thường được các chính phủ, cơ quan thẩm định (verification) sử dụng làm cơ sở pháp lý và đánh giá sự tuân thủ.
+    - 5 Nguyên tắc cốt lõi (tương tự GHG Protocol): Tính thích hợp, Tính hoàn thiện, Tính nhất quán, Tính chính xác, và Tính minh bạch.
+    - Cách tiếp cận kỹ thuật nghiêm ngặt:
+        + Yêu cầu tổ chức thiết lập Ranh giới tổ chức và Ranh giới hoạt động rất rạch ròi. Thay vì dùng thuật ngữ Scope 1, 2, 3 như GHG Protocol, ISO 14064-1 phân loại thành: Phát thải trực tiếp, Phát thải gián tiếp qua năng lượng, và Phát thải gián tiếp khác.
+        + Năm cơ sở (Base year): Đặt ra yêu cầu rất cao trong việc thiết lập năm cơ sở lịch sử, cũng như các kịch bản bắt buộc phải "tính toán lại" khi có sự thay đổi về ranh giới để đảm bảo so sánh tương đương.
+        + Quản lý chất lượng (QA/QC): Đòi hỏi tổ chức phải xây dựng, lập tài liệu và thực thi hệ thống quản lý thông tin KNK, đánh giá độ không đảm bảo (uncertainty), và lưu giữ hồ sơ nghiêm ngặt để phục vụ cho các đợt kiểm định độc lập (verification).
+
+Tóm tắt mối quan hệ giữa 3 Tiêu chuẩn:
+    1. GHG Protocol: Trả lời cho câu hỏi "Tính toán như thế nào?". Đây là nền tảng kỹ thuật và phương pháp luận chi tiết nhất để phân loại (Scope 1, 2, 3) và đo lường lượng phát thải
+    2. GRI 305: Trả lời cho câu hỏi "Công bố thông tin gì cho cổ đông/công chúng?". Tiêu chuẩn này dùng đầu ra của GHG Protocol để trình bày thành các bản Báo cáo Phát triển Bền vững (Sustainability Report) mang tính minh bạch cao, bổ sung thêm các khí ô nhiễm khác (ODS, NOx, SOx)
+    3. TCVN ISO 14064-1: Trả lời cho câu hỏi "Làm sao để hệ thống quản lý KNK đạt chuẩn kiểm toán?". Đây là bộ khung kiểm soát chất lượng, được sử dụng để xây dựng hồ sơ kiểm kê nhằm mục đích chứng nhận, thẩm định và đáp ứng các yêu cầu pháp lý (như Nghị định 06/2022/NĐ-CP tại Việt Nam)
+    

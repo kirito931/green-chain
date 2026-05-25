@@ -1,0 +1,17 @@
+Phát thải từ vận chuyển thuê ngoài (thuộc Scope 3 - Phát thải gián tiếp khác) là lượng phát thải sinh ra từ các phương tiện vận tải không thuộc quyền sở hữu hoặc kiểm soát của doanh nghiệp, bao gồm các hoạt động như: vận chuyển nguyên vật liệu mua vào, vận chuyển sản phẩm bán ra, nhiên liệu, chất thải, hoặc nhân viên đi công tác và đi làm.
+Dựa trên hướng dẫn của GHG Protocol và mô hình thực tế từ công ty vận tải và logistics DHL Express Nordic, cách tính toán lượng phát thải từ vận chuyển thuê ngoài không dùng công thức hóa học cố định mà được thực hiện thông qua việc đo lường dữ liệu hoạt động thực tế (Activity Data) từ các nhà thầu phụ, sau đó áp dụng vào các công cụ tính toán.
+Cụ thể, phương pháp tính toán yêu cầu các bước sau:
+1. Thu thập dữ liệu từ các đối tác vận tải (Activity Data) Doanh nghiệp cần yêu cầu các đối tác vận tải thuê ngoài (nhà thầu phụ) cung cấp các thông số chi tiết của quá trình vận chuyển. Các dữ liệu bắt buộc phải thu thập bao gồm:
+    - Loại phương tiện sử dụng (Vehicles used): Thông tin về các loại xe tải, tàu, máy bay... để xác định chính xác hệ số phát thải tương ứng.
+    - Quãng đường di chuyển (Distance traveled): Chiều dài quãng đường thực tế mà phương tiện đã chạy để phục vụ cho chuỗi giá trị của doanh nghiệp.
+    - Hiệu quả sử dụng nhiên liệu (Fuel efficiency): Mức tiêu hao nhiên liệu của phương tiện trên mỗi chuyến đi hoặc trên mỗi đơn vị quãng đường.
+    - Các dữ liệu nền tảng khác (Background data): Ví dụ như tải trọng hàng hóa, loại nhiên liệu (xăng, dầu diesel...), tuyến đường.
+
+2. Xử lý dữ liệu qua công cụ tính toán
+    - Toàn bộ dữ liệu thu thập được từ nhà thầu phụ sẽ được nhập vào một công cụ tính toán tùy chỉnh (tailored calculation tool) dành riêng cho vận chuyển thuê ngoài.
+    - Công cụ này sẽ áp dụng nguyên tắc chung là nhân Dữ liệu hoạt động (quãng đường, mức tiêu thụ nhiên liệu) với Hệ số phát thải (Emission Factor) phù hợp của loại phương tiện/nhiên liệu đó để tính ra tổng lượng phát thải.
+    - Kết quả cuối cùng sẽ được phân bổ vào các danh mục tương ứng trong báo cáo Scope 3: Vận chuyển và phân phối đầu vào (Upstream transportation and distribution) hoặc Vận chuyển và phân phối đầu ra (Downstream transportation and distribution).
+
+Ý nghĩa của phương pháp tính toán này: Việc yêu cầu các nhà cung cấp/đối tác vận tải báo cáo số liệu thực tế giúp doanh nghiệp có được bức tranh chi tiết và chính xác về dấu chân carbon (Scope 3) của mình thay vì chỉ ước tính chung chung. Bằng cách gắn kết dữ liệu phát thải với từng nhà vận chuyển cụ thể, doanh nghiệp có thể đánh giá, sàng lọc các đối tác dựa trên hiệu quả bảo vệ môi trường, từ đó đưa ra các quyết định kinh doanh giúp tối ưu hóa chi phí và giảm thiểu lượng phát thải hiệu quả.
+
+Trong trường hợp không thu thập được dữ liệu hoạt động vật lý, doanh nghiệp có thể sử dụng Phương pháp dựa trên chi tiêu (Spend-based method). Công thức: Khối lượng KNK = Tổng số tiền chi trả cho dịch vụ (VND hoặc USD) × Hệ số phát thải theo cường độ kinh tế (EEIO factor - kgCO2e/VND).

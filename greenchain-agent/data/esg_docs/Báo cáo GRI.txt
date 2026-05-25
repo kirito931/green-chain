@@ -1,0 +1,26 @@
+Hệ thống báo cáo theo Sáng kiến Báo cáo Toàn cầu (GRI - Global Reporting Initiative), đặc biệt là tiêu chuẩn GRI 305: Khí thải (Emissions 2016), được quy định rất chi tiết nhằm hướng dẫn các tổ chức báo cáo về tác động môi trường của họ một cách minh bạch và chuẩn hóa.
+Dưới đây là các nội dung chi tiết về báo cáo GRI được trình bày trong các tài liệu:
+1. Cấu trúc của Hệ thống Tiêu chuẩn Báo cáo GRI
+Hệ thống chuẩn GRI được thiết kế thành một hệ thống các tiêu chuẩn có mối liên hệ chặt chẽ với nhau, chia làm 3 nhóm chính:
+    - Tiêu chuẩn chung (Universal Standards): Đây là nhóm tiêu chuẩn bắt buộc mọi tổ chức phải áp dụng khi bắt đầu sử dụng chuẩn GRI, bao gồm:
+        + GRI 1 (Nền tảng - Foundation 2021): Quy định các yêu cầu và nguyên tắc cốt lõi mà tổ chức phải tuân thủ để được công nhận là báo cáo theo đúng chuẩn GRI.
+        + GRI 2 (Thông tin chung - General Disclosures 2021): Yêu cầu tổ chức cung cấp thông tin về thực tiễn báo cáo, cấu trúc tổ chức, hoạt động, quản trị và các chính sách của mình.
+        + GRI 3 (Các chủ đề trọng yếu - Material Topics 2021): Hướng dẫn quy trình xác định các "chủ đề trọng yếu" và yêu cầu tổ chức báo cáo cách thức họ quản lý từng chủ đề đó.
+    - Tiêu chuẩn Ngành (Sector Standards): Cung cấp thông tin định hướng giúp các tổ chức nhận diện được các chủ đề trọng yếu có khả năng xảy ra cao nhất dựa trên lĩnh vực kinh doanh đặc thù của họ.
+    - Tiêu chuẩn Chủ đề (Topic Standards): Chứa các yêu cầu công bố thông tin cụ thể cho từng hạng mục tác động (ví dụ: GRI 305 dành riêng cho lĩnh vực Khí thải). Tổ chức sẽ chọn các tiêu chuẩn chủ đề tương ứng với danh sách chủ đề trọng yếu mà họ đã xác định ở bước GRI 3.
+
+2. Yêu cầu chi tiết của Tiêu chuẩn GRI 305 (Khí thải)
+GRI 305 được xây dựng dựa trên các phương pháp luận của Tiêu chuẩn GHG Protocol. Nếu tổ chức đánh giá "Khí thải" là một chủ đề trọng yếu của mình, họ bắt buộc phải báo cáo cách quản lý chủ đề này (tiêu chuẩn GRI 3) và thực hiện 7 chỉ số công bố thông tin (Disclosures) sau:
+    - Disclosure 305-1: Lượng phát thải KNK trực tiếp (Scope 1)
+    - Disclosure 305-2: Lượng phát thải KNK gián tiếp từ năng lượng (Scope 2)
+    - Disclosure 305-3: Các phát thải KNK gián tiếp khác trong chuỗi giá trị (Scope 3)
+    - Disclosure 305-4: Cường độ phát thải KNK (Tỷ lệ phát thải trên một đơn vị đo lường đặc thù của tổ chức)
+    - Disclosure 305-5: Kết quả giảm phát thải KNK đạt được từ các sáng kiến giảm thiểu
+    - Disclosure 305-6: Khối lượng phát thải các chất làm suy giảm tầng ozone (ODS) quy đổi ra tấn CFC-11 tương đương
+    - Disclosure 305-7: Khối lượng phát thải các khí ô nhiễm không khí đáng kể khác như Nitrogen oxides (NOx), sulfur oxides (SOx) và các hạt vật chất
+
+3. Quy định về Tính minh bạch và "Lý do bỏ qua" (Reasons for Omission)
+GRI có các quy định rất linh hoạt nhưng chặt chẽ để đảm bảo tính minh bạch khi tổ chức gặp khó khăn trong việc thu thập số liệu:
+    - Quyền miễn trừ (Omission): Nếu tổ chức không thể báo cáo một thông tin hoặc yêu cầu cụ thể (ví dụ: do dữ liệu bị ràng buộc bảo mật kinh doanh hoặc bị pháp luật cấm), tổ chức được phép bỏ qua thông tin đó. Tuy nhiên, họ bắt buộc phải chỉ định rõ yêu cầu nào không thể tuân thủ và cung cấp "lý do bỏ qua" kèm theo lời giải thích chi tiết trong Bảng mục lục GRI (GRI content index)
+    - Xử lý các thông tin/chính sách chưa tồn tại: Nếu một mục được yêu cầu (ví dụ: chính sách nội bộ hoặc quy trình) thực tế chưa tồn tại trong doanh nghiệp, tổ chức không bị bắt buộc phải tạo ra nó ngay lập tức. Thay vào đó, tổ chức tuân thủ bằng cách báo cáo trung thực rằng mục đó không tồn tại, đồng thời có thể giải thích lý do hoặc nêu kế hoạch xây dựng trong tương lai
+    - Tích hợp và tham chiếu: Trong trường hợp tổ chức lập Báo cáo Phát triển Bền vững hoặc Báo cáo Trách nhiệm Xã hội (CSR) riêng biệt, họ không cần phải lặp lại những thông tin đã công bố công khai trước đó (như trên website hoặc Báo cáo thường niên). Tổ chức chỉ cần cung cấp đường dẫn tham chiếu chính xác trong Bảng mục lục GRI để người đọc tìm kiếm

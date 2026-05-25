@@ -1,0 +1,22 @@
+Thuật ngữ ESG là viết tắt của ba chữ cái đầu trong tiếng Anh: Environment (Môi trường), Social (Xã hội) và Governance (Quản trị). Đây là một bộ tiêu chuẩn dùng để đo lường các yếu tố liên quan đến phát triển bền vững và tác động của một doanh nghiệp đối với cộng đồng.
+Dựa trên cấu trúc Báo cáo ESG của FPT Software và các khung báo cáo quốc tế (như CDSB), khái niệm ESG được chia thành ba trụ cột cực kỳ chi tiết như sau:
+1. E - Environment (Môi trường)
+Trụ cột này đo lường cách thức một doanh nghiệp tác động đến tự nhiên và những nỗ lực bảo vệ môi trường của họ. Các khía cạnh trọng yếu bao gồm:
+    - Biến đổi khí hậu (Climate change) & Dấu chân Carbon: Đo lường lượng phát thải Khí nhà kính (Scope 1, Scope 2, Scope 3) và các chiến lược giảm thiểu phát thải (ví dụ: chuyển đổi sang xe điện, tối ưu hóa hiệu quả năng lượng, chuyển sang dùng năng lượng tái tạo)
+    - Quản lý rác thải (Waste): Khuyến khích việc áp dụng các vật liệu thân thiện với môi trường, có thể tái sử dụng và tái chế
+    - Quản lý tài nguyên nước (Water): Kiểm soát và tối ưu lượng nước tiêu thụ trong quá trình vận hành
+
+2. S - Social (Xã hội)
+Trụ cột này xem xét cách doanh nghiệp quản lý các mối quan hệ với lực lượng lao động, khách hàng và cộng đồng nơi họ hoạt động. Các yếu tố được tập trung báo cáo bao gồm:
+    - Sức khỏe và An toàn (Health & Safety): Đảm bảo an toàn và điều kiện làm việc tốt nhất cho người lao động
+    - Nhân quyền và Đa dạng (Labor & Human rights): Đảm bảo lực lượng lao động đa dạng, duy trì tỷ lệ cân bằng giới (ví dụ: mục tiêu nữ giới chiếm 30% ở các cấp), không sử dụng lao động trẻ em và lao động cưỡng bức
+    - Phát triển con người (Development & Training): Quản lý lộ trình nghề nghiệp và đào tạo nhân sự
+    - Cộng đồng địa phương (Local Communities): Các hoạt động đầu tư, đóng góp tạo ra tác động tích cực cho xã hội
+
+3. G - Governance (Quản trị)
+Trụ cột Quản trị tập trung vào cách thức một công ty được điều hành bởi ban lãnh đạo, các chính sách minh bạch và đạo đức kinh doanh. Các yếu tố quan trọng bao gồm:
+    - Đạo đức và Tuân thủ (Compliance & Risk management): Xây dựng bộ quy tắc ứng xử kinh doanh, kiểm soát rủi ro và cam kết loại bỏ các sự cố tuân thủ nghiêm trọng
+    - Quản lý chuỗi cung ứng bền vững (Sustainable Procurement): Tăng cường hợp tác với các nhà cung cấp đạt chuẩn về môi trường và nhân quyền, đưa các tiêu chí này vào quá trình đánh giá chọn lọc nhà thầu
+    - Bảo mật thông tin và Quyền riêng tư (Information Management & Data Privacy): Áp dụng các tiêu chuẩn quản lý thông tin (như ISO 27001) để bảo vệ dữ liệu nội bộ và khách hàng
+
+Tóm lại: Thay vì chỉ nhìn vào báo cáo tài chính truyền thống (lợi nhuận, doanh thu), ESG là công cụ giúp các nhà đầu tư và các bên liên quan đánh giá toàn diện xem một doanh nghiệp có đang phát triển bền vững hay không. Việc thực thi tốt ESG không chỉ giúp doanh nghiệp quản lý rủi ro mà còn duy trì "giấy phép hoạt động xã hội", gia tăng uy tín thương hiệu và đảm bảo thành công tài chính trong dài hạn.

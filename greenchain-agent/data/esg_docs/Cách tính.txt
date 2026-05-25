@@ -1,0 +1,78 @@
+Dưới đây là chi tiết các phương pháp và công thức tính toán được phân loại theo các Phạm vi (Scope) và Quy trình (Process):
+1. Phân loại theo "Bậc" (Tiers) của IPCC để tính toán Scope 1
+    - Tài liệu IPCC 2006 chia cách tính toán Scope 1 thành 3 Bậc (Tier) tùy thuộc vào mức độ chi tiết của dữ liệu hóa đơn/chứng từ mà doanh nghiệp có:
+        + Tier 1: Phương pháp đơn giản nhất. Sử dụng thống kê sản lượng hoặc tiêu thụ tổng cộng nhân với Hệ số phát thải mặc định (Default Emission Factor).
+        + Tier 2: Sử dụng dữ liệu đầu vào hoặc đầu ra chi tiết của từng nhà máy (ví dụ: từng loại nhiên liệu, từng loại công nghệ) nhân với hệ số phát thải mặc định cho từng loại.
+        + Tier 3: Phương pháp chính xác nhất. Sử dụng dữ liệu đo đạc trực tiếp (đo nồng độ và lưu lượng khí thải) hoặc cân bằng khối lượng (Mass-balance) bằng các thông số thực tế của riêng nhà máy đó.
+
+2. Các công thức tính toán cụ thể cho Scope 1 (Phát thải trực tiếp)
+Tài liệu IPCC 2006 cung cấp hàng loạt công thức chi tiết cho các ngành công nghiệp cụ thể:
+    A. Tính toán phát thải từ sử dụng Dầu nhờn/Chất bôi trơn (Phương pháp Tier 1) Lượng CO2 phát thải từ việc tiêu thụ dầu nhờn được tính toán dựa trên lượng cacbon bị oxy hóa trong quá trình sử dụng:
+            CO₂ = LC × CC_Lubricant × ODU_Lubricant × 44/12
+        Trong đó:
+            - LC: Tổng lượng dầu nhờn tiêu thụ (đơn vị: TJ)
+            - CC: Hàm lượng Cacbon của dầu nhờn (thường mặc định là 20.0 kg C/GJ)
+            - ODU: Hệ số Oxy hóa trong quá trình sử dụng (Mặc định là 0.2 hoặc 20% đối với dầu và 0.05 hoặc 5% đối với mỡ bò)
+            - 44/12: Tỷ lệ chuyển đổi khối lượng từ Cacbon (C) sang CO₂
+
+    B. Ngành sản xuất Xi măng (Dựa trên sản lượng Clinker - Tier 2)
+            CO₂ = M_cl × EF_cl × CF_ckd
+        Trong đó:
+            - Mcl: Khối lượng Clinker được sản xuất (tấn)
+            - EFcl: Hệ số phát thải của clinker (tấn CO2/tấn clinker)
+            - CFckd: Hệ số hiệu chỉnh cho lượng bụi lò xi măng (CKD) không được thu hồi lại vào lò
+
+    C. Ngành sản xuất Thủy tinh (Tier 1) Phát thải CO2 sinh ra từ sự nóng chảy của các muối cacbonat trong lò
+            CO₂ = M_g × EF × (1 - CR)
+        Trong đó:
+            - Mg: Khối lượng thủy tinh được sản xuất (tấn)
+            - EF: Hệ số phát thải mặc định (tấn CO2/tấn thủy tinh)
+            - CR: Tỷ lệ kính vụn/thủy tinh tái chế (Cullet ratio) được sử dụng (Mặc định là 0.5 hoặc 50%)
+
+    D. Ngành hóa chất - Sản xuất Amoniac (Tier 1)
+            CO₂ = (AP × FR × CCF × COF × 44/12) - R_CO2
+        Trong đó:
+            - AP: Lượng Amoniac được sản xuất (tấn)
+            - FR: Nhu cầu nhiên liệu cho mỗi đơn vị Amoniac (GJ/tấn)
+            - CCF: Hệ số hàm lượng Cacbon của nhiên liệu (kg C/GJ)
+            - COF: Hệ số Oxy hóa Cacbon của nhiên liệu (Tỷ lệ phần trăm)
+            - R_CO2: Lượng CO2 được thu hồi để sử dụng cho mục đích khác (ví dụ: sản xuất urê)
+
+    E. Ngành Điện tử (Phát thải khí FC từ dung môi/hóa chất làm sạch - Tier 2a) Đối với việc sử dụng hóa chất đặc thù (các khí nhà kính gốc Fluor - FCs), việc tính toán trừ hao rất phức tạp:
+            E_i = (1 - h) × FC_i × (1 - U_i) × (1 - a_i × d_i)
+        Trong đó:
+            - Ei: Lượng khí i phát thải (kg)
+            - FCi: Lượng khí i được tiêu thụ (kg)
+            - h: Tỷ lệ khí còn sót lại trong bình chứa (gót bình) sau khi sử dụng xong
+            - Ui: Tỷ lệ khí bị phá hủy hoặc biến đổi trong quá trình sản xuất
+            - ai: Tỷ lệ thể tích khí được dẫn qua các hệ thống kiểm soát phát thải
+            - di: Tỷ lệ khí bị hệ thống kiểm soát tiêu hủy
+
+3. Công thức tính toán cho Scope 2 (Phát thải gián tiếp từ Năng lượng)
+Theo tài liệu GHG Protocol (Phụ lục A), việc tính toán phát thải Scope 2 sinh ra từ việc mua điện (hoặc nhiệt/hơi nước) được tính toán theo công thức:
+        Scope 2 Emissions = Electricity Consumed × EF_G
+    Trong đó:
+        - Electricity Consumed: Điện năng tiêu thụ thực tế tại doanh nghiệp (ghi nhận qua hóa đơn điện hoặc đồng hồ đo)
+        - EF_G (Grid Emission Factor): Hệ số phát thải của lưới điện (Lượng CO2 phát ra trên mỗi kWh điện được sản xuất từ nhà máy điện). Doanh nghiệp sử dụng dữ liệu từ nhà cung cấp hoặc lưới điện quốc gia
+
+4. Công thức tính toán cho Scope 3 (Phát thải gián tiếp khác)
+    A. Tính toán phát thải từ tổn thất truyền tải và phân phối điện (T&D Losses) Điện năng bị hao hụt trên đường dây truyền tải trước khi đến công ty không tính vào Scope 2 mà được tính vào Scope 3:
+            Scope 3 (T&D) = EF_G × T&D Losses
+    
+    B. Tính toán phát thải chậm (Delayed emissions) từ việc sử dụng các sản phẩm chứa KNK (Bình xịt, Khí y tế N2O) Đối với các loại hóa chất không phát thải ngay lập tức mà phát thải dần dần, IPCC đưa ra công thức tính toán dựa trên số lượng cung ứng trong vòng 2 năm liên tiếp:
+            E(t) = ∑ [0.5 × A_i(t) + 0.5 × A_i(t - 1)] × EF_i
+        Trong đó:
+            - E(t): Phát thải trong năm t (tấn)
+            - Ai(t): Tổng lượng hóa chất cung cấp trong năm t
+            - Ai(t-1): Tổng lượng hóa chất cung cấp trong năm trước đó (t-1)
+            - EFi: Hệ số phát thải của ứng dụng đó (thường = 1.0 đối với bình xịt hoặc khí gây mê)
+
+5. Công thức tính Cường độ phát thải KNK (GHG Emissions Intensity)
+Theo chuẩn GRI 305-4, ngoài việc tính toán số tuyệt đối, các doanh nghiệp thường được yêu cầu tính toán Tỷ lệ cường độ KNK (để so sánh hiệu quả giữa các năm dù quy mô sản xuất tăng hay giảm):
+        Ratio = (Absolute GHG emissions (Numerator)) / (Organization-specific metric (Denominator))
+    Trong đó:
+        - Tử số: Tổng phát thải Scope 1, Scope 2 (và có thể Scope 3, nhưng Scope 3 phải được báo cáo một tỷ lệ riêng biệt)
+        - Mẫu số (Metric): Đơn vị đo lường đặc thù của tổ chức. Tùy chọn có thể là: Số lượng sản phẩm sản xuất (tấn CO2/tấn sản phẩm), Doanh thu (tấn CO2/tỷ VND), Số lượng nhân viên (tấn CO2/nhân viên), hoặc Diện tích sàn (tấn CO2/m2)
+
+
+Lưu ý quan trọng từ tài liệu: Khi áp dụng các công thức này, doanh nghiệp phải chứng minh được nguồn gốc của Dữ liệu hoạt động (Hóa đơn mua bán, chỉ số đồng hồ đo) và phải giải trình tường minh Hệ số phát thải (Emission Factor) được lấy từ nguồn nào (IPCC mặc định hay đo đạc đặc thù tại địa phương). Lượng CO2 thu hồi sinh học (Biogenic CO2) phải tách riêng khỏi các công thức này.

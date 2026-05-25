@@ -1,0 +1,24 @@
+Dựa trên các tài liệu được cung cấp, đối với các doanh nghiệp tại Việt Nam, ranh giới giữa "tiêu chuẩn tự nguyện" và "quy định bắt buộc" được phân định rõ ràng bởi hệ thống pháp luật quốc gia, trọng tâm là Nghị định số 06/2022/NĐ-CP (ban hành kèm theo Luật Bảo vệ môi trường 2020).
+Dưới đây là chi tiết các quy định và tiêu chuẩn mang tính bắt buộc đối với doanh nghiệp tại Việt Nam:
+1. Bắt buộc tuân thủ pháp luật theo Nghị định 06/2022/NĐ-CP
+Doanh nghiệp bắt buộc phải tuân thủ các nghĩa vụ pháp lý nếu rơi vào các nhóm đối tượng sau:
+    - Bắt buộc Kiểm kê Khí nhà kính (KNK): Việc kiểm kê không còn là tự nguyện mà là nghĩa vụ bắt buộc đối với các cơ sở có mức phát thải hằng năm từ 3.000 tấn CO2 tương đương trở lên. Ngoài ra, các cơ sở tiêu thụ năng lượng và xử lý chất thải lớn cũng thuộc diện bắt buộc, cụ thể:
+        + Nhà máy nhiệt điện, cơ sở sản xuất công nghiệp, hoặc tòa nhà thương mại tiêu thụ năng lượng từ 1.000 TOE (tấn dầu tương đương)/năm trở lên.
+        + Công ty kinh doanh vận tải hàng hóa tiêu thụ nhiên liệu từ 1.000 TOE/năm trở lên.
+        + Cơ sở xử lý chất thải rắn có công suất hoạt động từ 65.000 tấn/năm trở lên.
+    - Bắt buộc tuân thủ hạn ngạch phát thải: Các doanh nghiệp nằm trong danh mục kiểm kê sẽ được cơ quan nhà nước phân bổ hạn ngạch phát thải KNK. Doanh nghiệp bắt buộc phải đảm bảo lượng phát thải không vượt quá hạn ngạch. Nếu vượt mức, cơ sở bắt buộc phải nộp tiền thanh toán hoặc phải lên sàn giao dịch để mua tín chỉ các-bon bù trừ.
+    - Bắt buộc loại trừ các chất làm suy giảm tầng ô-dôn (ODS): Doanh nghiệp bị nghiêm cấm sản xuất, nhập khẩu, tiêu thụ hoặc sử dụng các thiết bị chứa các chất bị cấm theo Nghị định thư Montreal như: Bromochloromethane, CTC, CFC, Halon, HBFC, Methyl chloroform, và HCFC 141b.
+
+2. Các Tiêu chuẩn kỹ thuật (Standards) bị bắt buộc theo luật
+Mặc dù hệ thống tiêu chuẩn ISO thường mang tính tự nguyện, nhưng khi pháp luật nhà nước dẫn chiếu đến tiêu chuẩn nào, tiêu chuẩn đó sẽ trở thành điều kiện bắt buộc trong thực thi:
+    - Tiêu chuẩn TCVN ISO 14065: Nghị định 06/2022/NĐ-CP quy định, các đơn vị muốn thực hiện dịch vụ thẩm định giảm nhẹ phát thải KNK cho doanh nghiệp bắt buộc phải có chứng nhận tiêu chuẩn TCVN ISO 14065 (quy định các yêu cầu đối với tổ chức thẩm định và kiểm định KNK)
+    - Tiêu chuẩn TCVN ISO 14064-1: Đây là Tiêu chuẩn Quốc gia quy định kỹ thuật và hướng dẫn định lượng, báo cáo phát thải KNK ở cấp độ tổ chức. Việc đo đạc, tính toán và thẩm định kết quả kiểm kê của doanh nghiệp phải dựa trên nền tảng của các tiêu chuẩn này nhằm đáp ứng yêu cầu minh bạch, chính xác và có thể kiểm chứng được của cơ quan quản lý.
+
+3. Các tiêu chuẩn Quốc tế mang tính "bắt buộc từ thị trường"
+Trong hồ sơ tài liệu có đề cập đến các tiêu chuẩn như GHG Protocol hay GRI 305. Về mặt pháp lý tại Việt Nam, đây là các tiêu chuẩn tự nguyện do các tổ chức phi chính phủ quốc tế ban hành.
+Tuy nhiên, trong thực tiễn kinh doanh hiện nay, các tiêu chuẩn này lại mang tính "bắt buộc gián tiếp":
+    - Yêu cầu từ chuỗi cung ứng toàn cầu: Nếu doanh nghiệp Việt Nam muốn xuất khẩu hàng hóa sang Châu Âu, Mỹ hoặc là nhà thầu của các tập đoàn đa quốc gia, đối tác thường sẽ ép buộc doanh nghiệp phải báo cáo lượng phát thải theo chuẩn GHG Protocol.
+    - Yêu cầu đối với công ty niêm yết: Các doanh nghiệp lớn hoặc công ty niêm yết trên sàn chứng khoán (như FPT Software) khi lập Báo cáo Phát triển Bền vững (ESG) thường bắt buộc phải tuân thủ nghiêm ngặt các khuôn khổ như GRI Standards để minh bạch thông tin với cổ đông, nhà đầu tư quốc tế và đảm bảo đủ tiêu chuẩn cho các bên thứ ba vào kiểm toán.
+
+Tóm lại: Đối với một doanh nghiệp tại Việt Nam, nếu quy mô đạt ngưỡng quy định (>= 3.000 tấn CO2 hoặc >= 1.000 TOE), bạn bắt buộc phải tuân thủ Nghị định 06/2022/NĐ-CP và sử dụng các công cụ đo lường đạt chuẩn ISO 14064/14065. Nếu bạn tham gia xuất khẩu hoặc gọi vốn quốc tế, bạn sẽ phải áp dụng thêm các chuẩn "luật chơi" của quốc tế như GHG Protocol hay GRI.
+    

@@ -1,0 +1,50 @@
+Nếu Báo cáo ESG cung cấp một bức tranh tổng thể về Môi trường, Xã hội và Quản trị dựa trên các khung tự nguyện (như CDSB hay TCFD), thì Báo cáo theo chuẩn GRI (Global Reporting Initiative) lại đòi hỏi một cấu trúc mang tính kỹ thuật, chuẩn hóa cao và phân chia rạch ròi theo từng chỉ số mã hóa.
+Dựa trên tài liệu GRI 305: Emissions 2016 và thực tế triển khai báo cáo GRI của FPT Software và Schneider Electric, dưới đây là chi tiết những yêu cầu trọng yếu và cấu trúc (outline) hoàn chỉnh của một Báo cáo GRI:
+1. Cấu trúc cốt lõi của Hệ thống Tiêu chuẩn GRI
+Một báo cáo tuân thủ chuẩn GRI không thể viết một cách tự do mà phải được cấu trúc dựa trên hệ thống 3 nhóm tiêu chuẩn có mối liên hệ chặt chẽ với nhau:
+    - Tiêu chuẩn chung (Universal Standards - GRI 1, 2, 3): Bắt buộc đối với mọi tổ chức để thiết lập nền tảng, công bố thông tin chung và xác định các chủ đề trọng yếu
+    - Tiêu chuẩn Ngành (Sector Standards): Giúp tổ chức xác định các chủ đề trọng yếu đặc thù theo ngành nghề kinh doanh
+    - Tiêu chuẩn Chủ đề (Topic Standards): Các chỉ số đo lường chi tiết (đánh số series 200 cho Kinh tế, 300 cho Môi trường, 400 cho Xã hội) dựa trên các chủ đề trọng yếu mà doanh nghiệp đã chọn
+
+2. Dàn ý (Outline) chi tiết của một Báo cáo GRI
+Thông qua cách trình bày của FPT Software và Schneider Electric, một báo cáo GRI hoàn chỉnh sẽ bao gồm các phần chính sau:
+PHẦN A: TIÊU CHUẨN CHUNG & QUẢN TRỊ (GRI 2 & GRI 3)
+Đây là phần giới thiệu bối cảnh tổ chức và cách thức quản trị các chủ đề bền vững.
+    - Chi tiết tổ chức và thực tiễn báo cáo (GRI 2-1 đến 2-5): Nêu chi tiết tên tổ chức, ranh giới các thực thể được đưa vào báo cáo, kỳ báo cáo, và thông tin liên hệ
+    - Hoạt động và Người lao động (GRI 2-6 đến 2-8): Mô tả chuỗi giá trị, các hoạt động kinh doanh chính và thống kê chi tiết về lực lượng lao động (số lượng, biến động)
+    - Cơ cấu Quản trị (GRI 2-9 đến 2-21): Cấu trúc của ban lãnh đạo cao nhất, quy trình xác định thù lao, và tỷ lệ phần trăm thù lao hàng năm
+    - Chiến lược và Cam kết (GRI 2-22 đến 2-24): Tuyên bố của lãnh đạo về chiến lược phát triển bền vững và các cam kết chính sách
+    - Quản lý các chủ đề trọng yếu (GRI 3-1 đến 3-3):
+        + Mô tả quy trình xác định các chủ đề trọng yếu (Material Topics)
+        + Liệt kê danh sách các chủ đề trọng yếu (Ví dụ: Biến đổi khí hậu, An toàn lao động)
+        + Trình bày cách tổ chức quản lý từng chủ đề trọng yếu đó (Management of material topics)
+
+PHẦN B: CÁC CHỈ SỐ THEO CHỦ ĐỀ (TOPIC DISCLOSURES)
+Tổ chức sẽ chọn báo cáo các bộ chỉ số thuộc series 200, 300, 400 tương ứng với các tác động thực tế của mình:
+1. Môi trường (Series GRI 300):
+    - Năng lượng (GRI 302): Tiêu thụ năng lượng trong tổ chức (302-1), Cường độ năng lượng (302-3), và Kết quả giảm tiêu thụ năng lượng (302-4)
+    - Nước và Nước thải (GRI 303): Lượng nước tiêu thụ (303-5) và Lượng nước xả thải (303-4)
+    - Khí thải (GRI 305 - Rất quan trọng):
+        + 305-1, 305-2, 305-3: Báo cáo lượng phát thải KNK Phạm vi 1 (Trực tiếp), Phạm vi 2 (Gián tiếp từ năng lượng) và Phạm vi 3 (Gián tiếp khác) tính bằng tấn CO2 tương đương
+        + 305-4: Cường độ phát thải KNK (GHG emissions intensity)
+        + 305-5: Lượng KNK thực tế giảm được nhờ các sáng kiến (phải loại trừ lượng giảm do thu hẹp sản xuất)
+        + 305-6, 305-7: Phát thải chất làm suy giảm tầng ozone (ODS) và các khí ô nhiễm khác như NOx, SOx, VOC
+
+    - Rác thải (GRI 306): Lượng rác thải tạo ra (306-3), rác thải được chuyển hướng khỏi bãi chôn lấp/tái chế (306-4), và rác thải bị đem đi chôn lấp/tiêu hủy (306-5)
+    - Đánh giá môi trường nhà cung cấp (GRI 308): Tỷ lệ nhà cung cấp mới được sàng lọc qua các tiêu chí môi trường (308-1)
+
+2. Xã hội & Lao động (Series GRI 400):
+    - Tuyển dụng (GRI 401): Số lượng nhân viên mới tuyển và tỷ lệ luân chuyển nhân sự (401-1)
+    - Sức khỏe và An toàn Nghề nghiệp (GRI 403): Hệ thống quản lý an toàn (403-1), Nhận diện mối nguy (403-2), Số lượng cơ sở đạt chuẩn ISO 45001 (403-8), và Tỷ lệ thương tật/tai nạn lao động (403-9)
+    - Đào tạo và Giáo dục (GRI 404): Số giờ đào tạo trung bình mỗi năm cho mỗi nhân viên, phân chia theo giới tính và cấp bậc (404-1). Tỷ lệ nhân viên được đánh giá hiệu suất định kỳ (404-3)
+
+PHẦN C: BẢNG TRA CỨU NỘI DUNG GRI (GRI CONTENT INDEX)
+Đây là yếu tố bắt buộc và đặc trưng nhất làm nên một báo cáo GRI. Bảng này giúp người đọc tra cứu nhanh chóng xem tổ chức đã đáp ứng các yêu cầu nào của chuẩn GRI, bằng cách liệt kê:
+    - Mã chỉ số Disclosure (ví dụ: G2-1, 305-1, 403-9)
+    - Tên/Nội dung của chỉ số đó
+    - Số trang (Page) chứa thông tin hoặc đường link tham chiếu
+
+3. Các yêu cầu mang tính nguyên tắc của GRI cần lưu ý
+    - Minh bạch về Phương pháp luận: Khi báo cáo các số liệu (đặc biệt là Khí thải GRI 305), báo cáo bắt buộc phải giải trình rõ tiêu chuẩn, phương pháp, công cụ tính toán, hệ số phát thải (Emission Factor) và nguồn gốc của hệ số khả năng làm nóng toàn cầu (GWP) được sử dụng
+    - Lý do bỏ qua (Reasons for Omission): Khác với các báo cáo thông thường, nếu doanh nghiệp không thể báo cáo một chỉ số bắt buộc (do dữ liệu bảo mật, pháp luật cấm, hoặc quy trình đó chưa tồn tại), doanh nghiệp được phép bỏ qua nhưng bắt buộc phải ghi rõ lý do và cung cấp lời giải thích ngay trong Bảng tra cứu GRI Content Index
+    - Đảm bảo độc lập (Assurance): Dữ liệu công bố trong báo cáo GRI (như dữ liệu phát thải Scope 1, 2, 3) được khuyến nghị hoặc yêu cầu phải có sự kiểm toán, xác minh của bên thứ ba (Ví dụ: FPT được ISC xác minh, Schneider Electric được PwC kiểm toán) để đảm bảo tính minh bạch, nhất quán và không có sai sót trọng yếu. Mục này sẽ được đính kèm ở phần "Assurance statement" cuối báo cáo.

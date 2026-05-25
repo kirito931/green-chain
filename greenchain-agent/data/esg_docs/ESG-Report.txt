@@ -1,0 +1,48 @@
+Dưới đây là chi tiết các yếu tố trọng yếu cần thiết và dàn ý (outline) chuẩn mực cho một Báo cáo ESG.
+1. NHỮNG YẾU TỐ CẦN THIẾT VÀ TRỌNG YẾU TRONG BÁO CÁO ESG
+Theo Khung CDSB (Climate Disclosure Standards Board) và hệ thống tiêu chuẩn GRI, một báo cáo ESG không chỉ là kể chuyện mà phải tuân thủ các nguyên tắc cốt lõi và đáp ứng các yêu cầu khắt khe:
+    - Đánh giá tính trọng yếu (Materiality Assessment): Đây là bước quan trọng nhất. Doanh nghiệp không báo cáo mọi thứ mà phải khảo sát các bên liên quan (nhà đầu tư, khách hàng, nhân viên, cộng đồng) để xác định các rủi ro và cơ hội môi trường/xã hội nào thực sự ảnh hưởng đến hoạt động kinh doanh và chiến lược của công ty
+    - Sự gắn kết với Quản trị (Governance - REQ-01): Báo cáo phải thể hiện rõ ai (Ban giám đốc/Ủy ban nào) là người chịu trách nhiệm giám sát các vấn đề ESG, quy trình đánh giá rủi ro và cách quản lý được tích hợp vào chiến lược cốt lõi
+    - Chính sách, Chiến lược và Mục tiêu đo lường được (REQ-02): Phải nêu rõ các mục tiêu ngắn, trung, và dài hạn (ví dụ: cam kết Net Zero vào 2050, đạt tỷ lệ nữ quản lý 30%). Các chỉ số (KPIs) phải so sánh được qua các năm và so với kịch bản cơ sở (Baseline/BAU)
+    - Tính xác minh và Đảm bảo độc lập (Verifiability & Assurance - REQ-12): Dữ liệu công bố (đặc biệt là phát thải Khí nhà kính Scope 1, 2, 3 và các chỉ số an toàn lao động) cần được thu thập theo phương pháp chuẩn và phải được kiểm toán/đảm bảo độc lập bởi bên thứ ba (như ISC, PwC) để tạo niềm tin cho nhà đầu tư
+    - Tính liên kết (Connectivity): Thông tin ESG phải được kết nối với báo cáo tài chính, cho thấy các tác động môi trường/xã hội ảnh hưởng thế nào đến tình hình tài chính và rủi ro kinh doanh của doanh nghiệp
+
+2. OUTLINE CHI TIẾT CỦA MỘT BÁO CÁO ESG HOÀN CHỈNH
+Lấy hình mẫu từ Báo cáo ESG của FPT Software và Schneider Electric, kết hợp với yêu cầu của Khung CDSB, một báo cáo ESG hoàn chỉnh thường có cấu trúc 5 phần chính sau:
+PHẦN 1: GIỚI THIỆU VÀ TỔNG QUAN (INTRODUCTION)
+Phần này thiết lập bối cảnh và định hướng chiến lược của doanh nghiệp:
+    1.1 Thông điệp từ Ban Lãnh đạo (Executive Commitment): Cam kết của Chủ tịch/CEO về phát triển bền vững
+    1.2 Tổng quan Công ty (Corporate Overview): Quy mô, số lượng nhân viên, doanh thu, chuỗi giá trị và sự hiện diện toàn cầu
+    1.3 Về Báo cáo này (About the Report): Nêu rõ ranh giới báo cáo (phạm vi các công ty con/nhà máy), kỳ báo cáo, và các tiêu chuẩn áp dụng (GRI, SASB, TCFD)
+    1.4 Quản trị ESG & Đánh giá Tính trọng yếu (ESG Governance & Materiality): Mô tả sơ đồ tổ chức quản trị ESG và các bước đánh giá tính trọng yếu cùng danh sách các chủ đề được ưu tiên
+    1.5 Đóng góp vào các Mục tiêu Phát triển Bền vững (UN SDGs): Bản đồ kết nối các hoạt động của công ty với 17 mục tiêu của Liên Hợp Quốc
+
+PHẦN 2: MÔI TRƯỜNG (ENVIRONMENT)
+Báo cáo các nỗ lực giảm thiểu tác động đến tự nhiên và khí hậu:
+    2.1 Chính sách và Mục tiêu Môi trường: Các định hướng giảm thiểu tác động, thiết lập mục tiêu giảm phát thải
+    2.2 Biến đổi Khí hậu & Dấu chân Carbon (Climate Change):
+        - Kết quả kiểm kê Khí nhà kính chi tiết theo Phạm vi 1 (trực tiếp), Phạm vi 2 (gián tiếp từ năng lượng mua vào), Phạm vi 3 (chuỗi giá trị)
+        - Chiến lược giảm phát thải (Transition to EVs, sử dụng năng lượng tái tạo, tối ưu hiệu quả năng lượng văn phòng/nhà máy)
+    2.3 Quản lý Tiêu thụ Năng lượng: Các biện pháp tiết kiệm điện, tối ưu hệ thống, chuyển đổi xanh
+    2.4 Quản lý Nước & Rác thải (Water & Waste): Dữ liệu tiêu thụ nước, tái sử dụng; chiến lược hạn chế rác thải (đặc biệt là rác thải nhựa, hóa chất độc hại), áp dụng nguyên tắc kinh tế tuần hoàn
+
+PHẦN 3: XÃ HỘI (SOCIAL)
+Báo cáo về cách doanh nghiệp đối xử với con người (nhân viên, cộng đồng, đối tác):
+    3.1 An toàn và Sức khỏe Nghề nghiệp (Health & Safety): Số liệu về tai nạn lao động, bệnh nghề nghiệp, và các hệ thống quản lý an toàn (ISO 45001)
+    3.2 Đa dạng, Công bằng và Hòa nhập (Diversity, Equity & Inclusion): Thống kê lực lượng lao động theo giới tính, độ tuổi, quốc tịch. Mục tiêu tỷ lệ nữ giới ở các cấp quản lý và tỷ lệ công bằng mức lương
+    3.3 Điều kiện làm việc & Quyền lao động (Working Conditions & Labor Rights): Cam kết không sử dụng lao động trẻ em, lao động cưỡng bức; chính sách lương thưởng, phúc lợi, và đối thoại xã hội
+    3.4 Đào tạo và Phát triển sự nghiệp (Training & Career Management): Số giờ đào tạo trung bình, các chương trình phát triển năng lực
+    3.5 Trách nhiệm với Cộng đồng (Local Communities): Các hoạt động từ thiện, hỗ trợ giáo dục, y tế tại địa phương nơi doanh nghiệp hoạt động
+
+PHẦN 4: QUẢN TRỊ (GOVERNANCE)
+Cách thức doanh nghiệp vận hành minh bạch, đạo đức và tuân thủ:
+    4.1 Quy tắc Ứng xử và Đạo đức Kinh doanh (Code of Business Conduct): Cam kết chống tham nhũng, hối lộ, chính sách bảo vệ người tố giác
+    4.2 Tuân thủ và Quản lý Rủi ro (Compliance & Risk Management): Hệ thống nhận diện, kiểm soát và xóa bỏ các rủi ro tuân thủ nghiêm trọng
+    4.3 Quản lý Chuỗi cung ứng & Mua sắm Bền vững (Sustainable Procurement): Đưa tiêu chí ESG (nhân quyền, môi trường) vào việc đánh giá, chọn lọc nhà cung cấp (ví dụ: thang điểm chấm nhà cung cấp có yếu tố xã hội/môi trường)
+    4.4 An toàn Thông tin & Quyền riêng tư (Information Management & Data Privacy): Các tiêu chuẩn bảo mật (ISO 27001), quản trị rủi ro an ninh mạng và bảo vệ dữ liệu khách hàng
+
+PHẦN 5: PHỤ LỤC, CHỈ SỐ VÀ BÁO CÁO ĐẢM BÁO (APPENDICES & INDICES)
+Đây là phần để tra cứu thông tin và minh bạch dữ liệu.
+    5.1 Bảng tóm tắt chỉ số ESG (ESG Data Summary): Bảng số liệu tập trung cho tất cả các chỉ số E, S, G trong tối thiểu 3 năm liên tiếp để thấy rõ xu hướng
+    5.2 Bảng đối chiếu tiêu chuẩn (Content Indices): Bảng tra cứu chéo các chỉ số của báo cáo với chuẩn GRI (GRI Content Index), SASB, hoặc TCFD (Ví dụ: Chỉ số 305-1 chỉ ra lượng phát thải Scope 1 nằm ở trang nào)
+    5.3 Báo cáo đảm bảo của Bên thứ ba (Independent Assurance Report): Thư xác nhận từ tổ chức kiểm toán độc lập về tính chính xác của dữ liệu ESG đã công bố (Assurance statement)

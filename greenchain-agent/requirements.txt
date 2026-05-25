@@ -1,0 +1,20 @@
+plotly
+pandas
+langchain-google-genai
+langgraph
+pypdf
+python-dotenv
+langchain-community
+faiss-cpu
+fpdf2
+langchain-groq
+langchain-cohere
+
+# FAISS + RAG
+langchain
+sentence-transformers
+
+langchain-openai
+
+fastapi
+uvicorn

@@ -1,0 +1,4 @@
+Hệ số lưới điện Việt Nam (MONRE 2023): 0.4936 tCO2e/MWh.
+Hệ số đốt Xăng mô tô (IPCC AR6): ~2.27 kgCO2e/lít.
+Hệ số đốt Dầu Diesel (IPCC AR6): ~2.68 kgCO2e/lít.
+Hệ số đốt Gas LPG: ~2.98 kgCO2e/kg.

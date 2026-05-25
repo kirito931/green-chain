@@ -1,0 +1,33 @@
+1. Tiêu chuẩn cốt lõi để phân loại vào Scope 3
+Một hóa đơn, chứng từ chi phí được phân loại vào Scope 3 (Phát thải gián tiếp khác) khi đáp ứng đồng thời các điều kiện sau:
+    - Không thuộc quyền sở hữu hoặc kiểm soát: Lượng phát thải phát sinh từ các nguồn không do doanh nghiệp sở hữu hoặc kiểm soát về mặt tài chính/hoạt động.
+    - Là hệ quả từ hoạt động của doanh nghiệp: Mặc dù phát thải xảy ra ở một nơi khác (do bên thứ ba thực hiện), nhưng nguyên nhân sâu xa là để phục vụ cho chuỗi giá trị (value chain) của doanh nghiệp.
+    - Không thuộc Scope 2: Không phải là hóa đơn mua điện năng, hơi nước, nhiệt hoặc làm mát năng lượng để tiêu thụ trực tiếp.
+
+2. Các danh mục hóa đơn cụ thể thuộc Scope 3
+Theo Tiêu chuẩn Chuỗi giá trị Doanh nghiệp của GHG Protocol và GRI 305, Scope 3 được chia thành 15 danh mục (chia làm hai nhóm: Thượng nguồn - Upstream và Hạ nguồn - Downstream). Việc phân loại hóa đơn sẽ tương ứng với các danh mục này như sau:
+    A. Nhóm hóa đơn Thượng nguồn (Upstream - Đầu vào)
+        1. Hóa đơn mua hàng hóa và dịch vụ (Purchased goods and services): Các hóa đơn mua nguyên vật liệu thô, linh kiện, bao bì, văn phòng phẩm, vật tư tiêu hao, hoặc dịch vụ thuê ngoài. (Đây là một trong những danh mục quan trọng nhất đối với các doanh nghiệp sản xuất/SME tại Việt Nam).
+        2. Hóa đơn mua tài sản cố định (Capital goods): Các chứng từ mua sắm máy móc, thiết bị sản xuất, phương tiện, hoặc xây dựng nhà xưởng, tòa nhà.
+        3. Hóa đơn nhiên liệu/năng lượng không thuộc Scope 1, 2: Bao gồm lượng phát thải từ việc khai thác, sản xuất và vận chuyển các loại nhiên liệu hoặc điện mà doanh nghiệp đã mua (ví dụ: hao hụt truyền tải và phân phối điện - T&D losses, hoặc năng lượng dùng để lọc dầu trước khi bán cho doanh nghiệp).
+        4. Hóa đơn vận chuyển và phân phối đầu vào (Upstream transportation and distribution): Hóa đơn thuê bên thứ 3 (công ty logistics, vận tải) để vận chuyển nguyên vật liệu từ nhà cung cấp đến doanh nghiệp, hoặc vận chuyển giữa các cơ sở của doanh nghiệp bằng phương tiện không thuộc sở hữu của doanh nghiệp.
+        5. Hóa đơn xử lý rác thải (Waste generated in operations): Hóa đơn thanh toán cho các đơn vị bên thứ 3 thu gom, xử lý chất thải rắn, nước thải sinh ra trong quá trình vận hành của doanh nghiệp (ví dụ: rác đem đi chôn lấp, ủ phân, hoặc đốt).
+        6. Hóa đơn công tác phí (Business travel): Vé máy bay, vé tàu, hóa đơn khách sạn, taxi, hoặc xe thuê ngoài phục vụ cho nhân viên đi công tác.
+        7. Hóa đơn hỗ trợ đi lại của nhân viên (Employee commuting): Chi phí hoặc hóa đơn từ việc thuê xe đưa rước nhân viên (bus tuyến) hoặc phát thải từ các phương tiện cá nhân của nhân viên khi đi từ nhà đến nơi làm việc.
+        8. Hóa đơn thuê tài sản đầu vào (Upstream leased assets): Hóa đơn thuê mướn tài sản (ví dụ: thuê văn phòng, thuê xe máy móc) mà theo phương pháp hợp nhất (control approach) doanh nghiệp không có quyền kiểm soát hoạt động/tài chính, tức là hợp đồng "thuê hoạt động" (operating lease).
+
+    B. Nhóm hóa đơn Hạ nguồn (Downstream - Đầu ra)
+        9. Hóa đơn vận chuyển và phân phối đầu ra (Downstream transportation and distribution): Hóa đơn từ các đối tác logistics chuyên chở sản phẩm của doanh nghiệp đến khách hàng bán lẻ hoặc người tiêu dùng cuối.
+        10. Quá trình gia công sản phẩm (Processing of sold products): Nếu bạn bán sản phẩm trung gian, lượng phát thải từ việc bên khác gia công thêm sản phẩm của bạn sẽ tính vào Scope 3.
+        11. Sử dụng sản phẩm (Use of sold products): Dù thường không thể hiện bằng "hóa đơn" của chính doanh nghiệp, nhưng lượng phát thải do khách hàng tiêu thụ nhiên liệu/năng lượng để chạy sản phẩm của bạn (ví dụ: xe ô tô, thiết bị điện) thuộc nhóm này.
+        12. Xử lý sản phẩm cuối vòng đời (End-of-life treatment): Chi phí/phát thải phát sinh khi sản phẩm doanh nghiệp bán ra bị vứt bỏ, chôn lấp hoặc tái chế.
+        13. Hóa đơn cho thuê tài sản (Downstream leased assets): Lượng phát thải từ cơ sở vật chất, thiết bị mà doanh nghiệp đang sở hữu và cho bên khác thuê lại, mà bên thuê có quyền kiểm soát hoạt động.
+        14. Hóa đơn từ đơn vị nhận nhượng quyền (Franchises): Lượng phát thải từ các cửa hàng, chi nhánh nhận nhượng quyền thương hiệu (franchisees) của doanh nghiệp nhưng họ tự kiểm soát vận hành.
+        15. Hóa đơn liên quan đến Đầu tư (Investments): Lượng phát thải gián tiếp từ các khoản đầu tư, cho vay, tài trợ vốn (rất quan trọng với các ngân hàng, tổ chức tài chính).
+
+3. Tiêu chuẩn áp dụng trong các trường hợp đặc thù (Ngoại lệ và Lưu ý)
+    - Tính toán kép (Double Counting): Không giống như Scope 1 và Scope 2 (nơi việc tính kép bị nghiêm cấm), đối với Scope 3, việc tính toán kép giữa các doanh nghiệp trong cùng một chuỗi cung ứng là điều không thể tránh khỏi và được chấp nhận. Ví dụ: Hóa đơn thuê bên thứ 3 vận chuyển (Scope 3 của bạn) chính là hóa đơn tiêu thụ nhiên liệu trực tiếp (Scope 1) của hãng vận tải đó.
+    - Hoạt động gia công, thuê ngoài (Outsourcing): Nếu doanh nghiệp thuê ngoài một hoạt động (trước đây tự làm), phát thải từ việc này sẽ dịch chuyển từ Scope 1 (hoặc 2) sang Scope 3. Việc này không yêu cầu doanh nghiệp phải tính toán lại ranh giới phát thải năm cơ sở (base year recalculation) trừ khi doanh nghiệp không báo cáo Scope 3.
+    - Phát thải sinh học (Biogenic CO2): Giống như Scope 1, phát thải CO2 từ việc đốt hoặc phân hủy sinh khối xảy ra trong chuỗi giá trị (Scope 3) không được gộp chung vào tổng số Scope 3 mà phải được tách ra báo cáo riêng.
+
+Tóm lại: Để phân loại hóa đơn vào Scope 3 một cách chính xác, bạn cần kiểm tra xem hoạt động phát sinh chi phí đó có nằm ngoài ranh giới kiểm soát trực tiếp của mình hay không, và nguyên nhân phát sinh có đóng góp vào chuỗi giá trị từ nhà cung cấp (Upstream) đến khách hàng (Downstream) của doanh nghiệp hay không. Đối với các doanh nghiệp SME tại Việt Nam, theo GRI, việc thu thập dữ liệu (thông qua hóa đơn) đối với nguyên vật liệu đầu vào (Cat 1), vận chuyển (Cat 4) và sử dụng sản phẩm (Cat 11) là ưu tiên hàng đầu vì chúng thường chiếm tới 70-90% tổng phát thải của doanh nghiệp.

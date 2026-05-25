@@ -1,0 +1,8 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+.env
+venv/
+__pycache__/
+.DS_Store
+Giai đoạn 0/
+link website.txt

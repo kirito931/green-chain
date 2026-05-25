@@ -1,0 +1,33 @@
+1. Tiêu chuẩn và điều kiện phân loại vào Scope 1 (Phát thải trực tiếp)
+Tiêu chuẩn cốt lõi: Scope 1 bao gồm các lượng phát thải khí nhà kính (KNK) trực tiếp từ các nguồn do doanh nghiệp sở hữu hoặc kiểm soát.Các hóa đơn/chứng từ được xếp vào Scope 1 phải phản ánh các hoạt động tiêu thụ nguyên nhiên liệu hoặc hóa chất tạo ra phát thải ngay tại ranh giới hoạt động của doanh nghiệp.
+Các nhóm hóa đơn/hoạt động cụ thể được phân loại vào Scope 1:
+    - Hóa đơn nhiên liệu cho quá trình đốt cháy cố định (Stationary Combustion): Bao gồm hóa đơn mua các loại nhiên liệu (than, khí tự nhiên, dầu diesel, dầu FO, v.v.) dùng để đốt trong các thiết bị cố định như lò hơi, lò nung, đầu đốt, tuabin, lò sưởi, hoặc lò đốt rác do doanh nghiệp sở hữu/kiểm soát.
+    - Hóa đơn nhiên liệu cho quá trình đốt cháy di động (Mobile Combustion): Bao gồm hóa đơn mua nhiên liệu (xăng, dầu) dùng cho các phương tiện giao thông thuộc sở hữu hoặc kiểm soát của doanh nghiệp như ô tô, xe tải, xe nâng, xe buýt, tàu hỏa, máy bay, hoặc tàu thủy.
+    - Hóa đơn nguyên vật liệu sinh ra phát thải từ quá trình sản xuất (Process Emissions): Hóa đơn mua các nguyên vật liệu vật lý hoặc hóa học mà quá trình xử lý/biến đổi chúng sinh ra KNK. Ví dụ: hóa đơn mua đá vôi dùng trong nung xi măng, than cốc dùng trong luyện kim, nguyên liệu hóa dầu.
+    - Hóa đơn mua gas/khí lạnh bù đắp do rò rỉ (Fugitive Emissions): Hóa đơn nạp gas, mua các chất làm lạnh (như HFCs, PFCs, SF6) để châm thêm vào hệ thống điều hòa không khí, tủ lạnh, tháp làm mát, hệ thống dập lửa, hoặc rò rỉ từ các thiết bị đệm kín, đường ống dẫn khí do doanh nghiệp sở hữu.
+Các điều kiện ngoại lệ (Không tính vào Scope 1):
+    - Phát thải sinh học (Biogenic CO2): Lượng CO2 phát thải từ việc đốt hoặc phân hủy sinh khối (biomass) không được tính vào Scope 1 mà phải được báo cáo tách biệt.
+    - Bán điện tự sản xuất: Nếu doanh nghiệp tự sản xuất điện (sinh ra phát thải Scope 1) và bán lượng điện này cho đơn vị khác, doanh nghiệp không được phép khấu trừ lượng phát thải này khỏi Scope 1 của mình.
+    - Khí không thuộc Nghị định thư Kyoto: Các loại khí làm suy giảm tầng ozone (như CFCs, HCFCs) hoặc NOx, SOx không được tính vào Scope 1 mà phải báo cáo riêng.
+
+2. Tiêu chuẩn và điều kiện phân loại vào Scope 2 (Phát thải gián tiếp từ năng lượng)
+Tiêu chuẩn cốt lõi: Scope 2 ghi nhận lượng phát thải KNK từ việc sản xuất năng lượng mua ngoài (purchased electricity/energy) mà doanh nghiệp mang vào ranh giới tổ chức của mình để tiêu thụ. Về mặt vật lý, lượng phát thải này xảy ra tại nơi sản xuất ra năng lượng (nhà máy điện), nhưng được tính cho doanh nghiệp vì doanh nghiệp là người tiêu thụ.
+Các nhóm hóa đơn/hoạt động cụ thể được phân loại vào Scope 2:
+    - Hóa đơn tiền điện: Điện mua từ lưới điện quốc gia hoặc các nhà cung cấp điện độc lập để sử dụng cho các thiết bị, máy móc, thắp sáng trong tổ chức.
+    - Hóa đơn mua hơi nước, nhiệt, làm mát: Hóa đơn thanh toán cho việc mua hơi nước, khí nóng, hoặc năng lượng làm mát từ bên thứ ba.
+Các điều kiện ngoại lệ (Không tính vào Scope 2):
+    - Điện mua để bán lại: Phát thải từ việc tạo ra nguồn điện được doanh nghiệp mua vào nhưng sau đó bán lại cho người dùng cuối (không tự tiêu thụ) không được ghi nhận ở Scope 2 mà chuyển sang Scope 3.
+    - Hao hụt truyền tải và phân phối (T&D losses): Nếu doanh nghiệp là người dùng cuối, hao hụt truyền tải điện lưới không thuộc Scope 2 mà thuộc Scope 3. Doanh nghiệp chỉ tính hao hụt này vào Scope 2 khi tự sở hữu/kiểm soát hệ thống truyền tải (công ty phân phối điện) nhưng mua điện từ bên khác.
+
+3. Nguyên tắc ranh giới tổ chức (Organizational Boundaries) để xác định quyền "Sở hữu/Kiểm soát"
+Để quyết định một hóa đơn nhiên liệu hay điện năng có thuộc Scope 1, Scope 2 (hay phải đẩy sang Scope 3), doanh nghiệp phải dựa vào cách thiết lập "Ranh giới tổ chức" (Organizational Boundaries). Theo GHG Protocol, có 2 phương pháp tiếp cận chính để xác định quyền kiểm soát:
+    - Phương pháp tỷ lệ vốn chủ sở hữu (Equity Share Approach): Doanh nghiệp hạch toán phát thải từ các hoạt động dựa trên tỷ lệ lợi ích kinh tế hoặc cổ phần mà họ nắm giữ trong hoạt động đó.
+    - Phương pháp kiểm soát (Control Approach): Doanh nghiệp hạch toán 100% lượng phát thải từ các hoạt động mà doanh nghiệp có quyền kiểm soát và 0% đối với các hoạt động không có quyền kiểm soát.  Kiểm soát được chia làm hai loại:
+        + Kiểm soát tài chính (Financial Control): Doanh nghiệp có quyền định hướng các chính sách tài chính và hoạt động để thu lợi ích kinh tế.
+        + Kiểm soát hoạt động (Operational Control): Doanh nghiệp (hoặc công ty con) có toàn quyền đưa ra và thực thi các chính sách hoạt động tại cơ sở đó.
+Ứng dụng phân loại hóa đơn:
+    - Nếu bạn mua nhiên liệu (hóa đơn xăng) cho một đội xe được thuê ngoài (outsourced/contractor owned vehicles), phương tiện đó không thuộc sở hữu/kiểm soát của bạn, phát thải từ nhiên liệu này thuộc Scope 3, không phải Scope 1.
+    - Tương tự, đối với tài sản cho thuê hoặc nhượng quyền, ranh giới phát thải Scope 1 hay Scope 3 phụ thuộc vào việc ai là người nắm quyền "kiểm soát hoạt động hoặc tài chính" dựa trên phương pháp hợp nhất doanh nghiệp đã chọn.
+
+Tổng kết bằng các chứng từ kiểm toán:
+Khi chuẩn bị cho các đợt kiểm kê và thẩm định KNK (Verification), tất cả các hóa đơn phân loại vào Scope 1 và Scope 2 cần được lưu trữ minh bạch, bao gồm: hóa đơn năng lượng, phiếu giao hàng, phiếu xuất trạm cân, chỉ số công tơ điện, khí đốt, hơi nước, nước nóng, chứng từ mua nguyên vật liệu thô (đối với hạch toán cân bằng khối lượng), và các chứng chỉ phân tích hệ số phát thải từ phòng thí nghiệm. Việc phân loại sai giữa Scope 1, 2 và 3 dẫn đến rủi ro "tính toán kép" (double counting) hoặc đánh giá sai nghĩa vụ phát thải của doanh nghiệp.
